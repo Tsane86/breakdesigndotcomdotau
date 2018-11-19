@@ -1,0 +1,17 @@
+nav li a:hover {
+	text-decoration: underline;
+	color: black;
+}
+
+nav #four a:hover {
+	color: white;
+	text-decoration: underline;
+}
+
+.wrap h1 {
+	font-weight: bold;
+}
+
+.blog h1 {
+	font-weight: bold;
+}

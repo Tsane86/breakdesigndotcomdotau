@@ -1,0 +1,3 @@
+<filter id="pictureFilter" >
+  <feGaussianBlur stdDeviation="7" />
+<filter />

@@ -1,0 +1,20 @@
+[23/Feb/2010:12:48:09 +0000] [error] [client 67.199.112.214] client sent HTTP/1.1 request without hostname (see RFC2616 section 14.23): /w00tw00t.at.ISC.SANS.DFind:)
+[23/Feb/2010:13:13:42 +0000] [error] [client 190.144.99.11] File does not exist: /usr/home/breakd/www/htdocs//user/templates/footer.tpl
+[24/Feb/2010:06:14:43 +0000] [error] [client 202.46.137.171] File does not exist: /usr/local/cp/cpimages/oem1/bg.jpg
+[24/Feb/2010:06:14:44 +0000] [error] [client 202.46.137.171] File does not exist: /usr/home/breakd/www/htdocs/favicon.ico
+[24/Feb/2010:06:14:47 +0000] [error] [client 202.46.137.171] File does not exist: /usr/home/breakd/www/htdocs/favicon.ico
+[24/Feb/2010:06:14:53 +0000] [error] [client 202.46.137.171] File does not exist: /usr/local/cp/cpimages/oem1/bg.jpg
+[24/Feb/2010:06:15:36 +0000] [error] [client 202.46.137.171] File does not exist: /usr/local/cp/cpimages/oem1/bg.jpg
+[24/Feb/2010:06:15:41 +0000] [error] [client 202.46.137.171] File does not exist: /usr/local/cp/cpimages/oem1/bg.jpg
+[24/Feb/2010:06:17:57 +0000] [error] [client 202.46.137.171] File does not exist: /usr/local/cp/cpimages/oem1/bg.jpg
+[24/Feb/2010:06:18:04 +0000] [error] [client 202.46.137.171] File does not exist: /usr/local/cp/cpimages/oem1/bg.jpg
+[24/Feb/2010:06:20:41 +0000] [error] [client 202.46.137.171] File does not exist: /usr/local/cp/cpimages/oem1/bg.jpg
+[24/Feb/2010:06:20:42 +0000] [error] [client 202.46.137.171] File does not exist: /usr/home/breakd/www/htdocs/favicon.ico
+[24/Feb/2010:06:20:45 +0000] [error] [client 202.46.137.171] File does not exist: /usr/home/breakd/www/htdocs/favicon.ico
+[24/Feb/2010:06:20:54 +0000] [error] [client 202.46.137.171] File does not exist: /usr/local/cp/cpimages/oem1/bg.jpg
+[24/Feb/2010:06:21:00 +0000] [error] [client 202.46.137.171] File does not exist: /usr/local/cp/cpimages/oem1/bg.jpg
+[24/Feb/2010:06:21:14 +0000] [error] [client 202.46.137.171] File does not exist: /usr/local/cp/cpimages/oem1/bg.jpg
+[24/Feb/2010:06:23:22 +0000] [error] [client 202.46.137.171] File does not exist: /usr/local/cp/cpimages/oem1/bg.jpg
+[24/Feb/2010:06:23:54 +0000] [error] [client 202.46.137.171] File does not exist: /usr/local/cp/cpimages/oem1/bg.jpg
+[24/Feb/2010:06:35:41 +0000] [error] [client 202.46.137.171] File does not exist: /usr/home/breakd/www/htdocs/favicon.ico
+[24/Feb/2010:06:35:44 +0000] [error] [client 202.46.137.171] File does not exist: /usr/home/breakd/www/htdocs/favicon.ico
